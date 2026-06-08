@@ -1,3 +1,4 @@
+
 # DotNET Monitoring Dashboard
 
 A real-time system monitoring dashboard developed using ASP.NET Core (.NET 8). The application provides live monitoring of CPU usage, memory utilization, system information, and weather data through a web-based interface.
